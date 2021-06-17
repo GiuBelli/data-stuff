@@ -21,6 +21,7 @@ This repo contains all util links
 ## 📊 Data Analysis
 - [QlikBlog](https://www.qlik.com/blog/)
 - [Spotify Insights](https://medium.com/spotify-insights)
+- [PowerBI](https://docs.microsoft.com/es-es/power-bi/)
 
 ## 🔧 Engineering
 - [Spotify Engineering](https://engineering.atspotify.com/)
