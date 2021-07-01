@@ -8,6 +8,8 @@ This repo contains all util links
 - [Python Graph Gallery](https://python-graph-gallery.com): Display hundreds of charts made with Python, with explanation and reproducible code.
 - [Explorable Explanations](https://explorabl.es/): Dinamic visualization.
 - [Information is Beautiful](https://informationisbeautiful.net/data/): Interesting infographics.
+- [Stackedit](https://stackedit.io/app#): To render markdown
+- [Excalidraw](https://excalidraw.com/): To make nice boards
 
 ## 🐍 Python
 - [Python for beginners](https://www.pythonforbeginners.com/): Basic Python
