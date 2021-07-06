@@ -3,7 +3,7 @@ This repo contains all util links
 
 ## 🎨 Visualization
 - [The Data Viz Color Picker](https://learnui.design/tools/data-color-picker.html): Color palette generator for graphics.
-- [Data to viz](data-to-viz.com): A classification of chart types based on their input data format.
+- [Data to viz](https://www.data-to-viz.com/): A classification of chart types based on their input data format.
 - [WTF Visualization](https://viz.wtf/): Visualizations that make no sense.
 - [Python Graph Gallery](https://python-graph-gallery.com): Display hundreds of charts made with Python, with explanation and reproducible code.
 - [Explorable Explanations](https://explorabl.es/): Dinamic visualization.
